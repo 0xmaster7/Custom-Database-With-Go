@@ -30,7 +30,7 @@ You must have the [Go programming language](https://go.dev/doc/install) installe
 
 Navigate to the project directory and run:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   go run main.go   `
+`   go run main.go   `
 
 The program will execute a series of built-in tests that verify the **B+Tree functionality** and the **SQL parser**.
 
